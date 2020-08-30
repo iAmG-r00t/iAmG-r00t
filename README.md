@@ -34,5 +34,5 @@
 
 [website]: https://th33-gr00t.tk/
 [twitter]: https://twitter.com/th3_gr00t/
-[linkedin]: https://github.com/iAmG-r00t/
+[linkedin]: https://www.linkedin.com/in/peter-numi-b14b71145/
 [blog]: https://th33gr00t.blogspot.com/
