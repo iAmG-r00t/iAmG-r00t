@@ -1,7 +1,10 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, iAmG-r00t - aka [th33-gr00t][website]
+<h1 style="text-align:center">~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I am iAmG-r00t ~</h1>
 
-[![Website](https://img.shields.io/website?label=th33-gr00t.tk&style=for-the-badge&url=https%3A%2F%2Fth33-gr00t.tk)](https://th33-gr00t.tk/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fth3_gr00t&screen_name=th3_gr00t)
+<p align="center">
+<a href="https://th33-gr00t.tk/" alt="Site"><img src="https://img.shields.io/website?label=th33-gr00t.tk&style=for-the-badge&url=https%3A%2F%2Fth33-gr00t.tk" /></a>
+<p align="center">
+<a href="https://twitter.com/th3_gr00t/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" />
+</p>
 
 ---
 
