@@ -10,27 +10,18 @@
 - 🔭 I’m currently working on [Automation][blog] & [DevOps][blog]!
 - 🌱 I’m currently learning low level stuff ... 👨‍💻
 - 👯 I’m looking to collaborate on other security researchers research and build on them.
+- 👋 I try to [share][blog] what I have learnt or picked up along the way.
 - 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
 - ⚡ Fun fact: I'm a hyper person and I loooove speeeed!! Ohhh + i :heart: :dog:
 
 ---
 
-### Connect with me:
+### More of me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-👋 [More Blog Posts](https://th33gr00t.blogspot.com/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blog]
 
 [website]: https://th33-gr00t.tk/
 [twitter]: https://twitter.com/th3_gr00t/
