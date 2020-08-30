@@ -5,7 +5,7 @@
 
 ---
 
-## I'm a Security Researcher, OpenSource lover driven by curiousity.
+## I'm a Security Researcher and an OpenSource lover driven by curiousity.
 
 - 🔭 I’m currently working on [Automation][blog] & [DevOps][blog]!
 - 🌱 I’m currently learning low level stuff ... 👨‍💻
