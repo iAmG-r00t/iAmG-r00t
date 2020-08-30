@@ -16,10 +16,14 @@
 
 &nbsp;
 
-[<img height="32" width="32" class="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
-[<img height="32" width="32" class="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img height="32" width="32" class="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" class="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blog]
+<center>
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blog]
+
+</center>
 
 [website]: https://th33-gr00t.tk/
 [twitter]: https://twitter.com/th3_gr00t/
