@@ -1,4 +1,4 @@
-<h1 align="center">~<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I am iAmG-r00t ~</h1>
+<h1 align="center">~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I am iAmG-r00t ~</h1>
 
 <p align="center">
 <a href="https://th33-gr00t.tk/" alt="Site"><img src="https://img.shields.io/website?label=th33-gr00t.tk&style=for-the-badge&url=https%3A%2F%2Fth33-gr00t.tk" /></a>
