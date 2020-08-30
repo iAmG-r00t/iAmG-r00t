@@ -14,9 +14,7 @@
 - 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
 - ⚡ Fun fact: I'm a hyper person and I loooove speeeed!! Ohhh + i :heart: :dog:
 
----
-
-### More of me:
+&nbsp;
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
