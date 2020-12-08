@@ -9,12 +9,12 @@
 
 <h3 align="center">I'm a Security Researcher and an OpenSource lover driven by curiousity.</h3>
 
-- 🔭 I’m working on [Automation][blog] & [DevOps][blog]!
-- 🌱 I’m learning low level stuff ... 👨‍💻
-- 👯 I’m looking to collaborate on other security researchers research and build on them.
+- 🔭 I’m working on 👨‍🏭 [Automation][blog] & 👷 [DevOps][blog]!
+- 🌱 I’m learning low level 🧰 stuff ... 👨‍💻
+- 👯 I’m looking to collaborate 🤝 on other security researchers research and build on them.
 - 👋 I try to [share][blog] what I have learnt or picked up along the way.
 - 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
-- ⚡ Fun fact: I'm a hyper person and I loooove speeeed!! Ohhh + i :heart: :dog:
+- ⚡ Fun fact: I'm a hyper person and I loooove speeeed!! Ohhh + i 🥰 🐶
 
 <p align="center">
 <a href="https://th33-gr00t.tk/" alt="Site"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>
