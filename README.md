@@ -10,7 +10,7 @@
 <h3 align="center">I'm a Security Researcher and an OpenSource lover driven by curiousity.</h3>
 
 - 🔭 I’m working on 👨‍🏭 [Automation][blog] & 👷 [DevOps][blog]!
-- 🌱 I’m learning low level 🧰 stuff ... 👨‍💻
+- 🌱 I’m learning low level 🧰 stuff ... 👨‍💻 and a student at ALX learning fullstack software engineering.
 - 👯 I’m looking to collaborate 🤝 on other security researchers research and build on them.
 - 👋 I try to [share][blog] what I have learnt or picked up along the way.
 - 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
