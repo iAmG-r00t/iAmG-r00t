@@ -1,7 +1,7 @@
 <h1 align="center">~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, iAmG-r00t ~</h1>
 
 <p align="center">
-<a href="https://th33-gr00t.tk/" alt="Site"><img src="https://img.shields.io/website?label=th33-gr00t.tk&style=for-the-badge&url=https%3A%2F%2Fth33-gr00t.tk" /></a>
+<a href="https://th3-gr00t.tk/" alt="Site"><img src="https://img.shields.io/website?label=th33-gr00t.tk&style=for-the-badge&url=https%3A%2F%2Fth33-gr00t.tk" /></a>
 </p>
 <p align="center">
 <a href="https://twitter.com/th3_gr00t/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
