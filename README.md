@@ -7,7 +7,7 @@
 <a href="https://twitter.com/th3_gr00t/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 </p>
 
-<h3 align="center">I'm a Security Researcher and an OpenSource lover driven by curiousity.</h3>
+<h3 align="center">I'm into Security Research and an OpenSource lover driven by curiousity.</h3>
 
 - 🔭 I’m working on 👨‍🏭 [Automation][blog] & 👷 [DevOps][blog]!
 - 🌱 I’m learning low level 🧰 stuff ... 👨‍💻 and a student at [ALX](https://www.alxafrica.com/) learning fullstack software engineering.
