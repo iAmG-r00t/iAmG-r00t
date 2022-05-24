@@ -7,10 +7,10 @@
 <a href="https://twitter.com/th3_gr00t/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 </p>
 
-<h3 align="center">I'm into Security Research and an OpenSource lover driven by curiousity.</h3>
+<h3 align="center">I'm into Security Research.</h3>
 
 - 🔭 I’m working on 👨‍🏭 [Automation][blog] & 👷 [DevOps][blog]!
-- 🌱 I’m learning low level 🧰 stuff ... 👨‍💻 and a student at [ALX](https://www.alxafrica.com/) learning fullstack software engineering.
+- 🌱 I’m learning low level 🧰 stuff ... 👨‍💻.
 - 👯 I’m looking to collaborate 🤝 on other security researchers research and build on them.
 - 👋 I try to [share][blog] what I have learnt or picked up along the way.
 - 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
