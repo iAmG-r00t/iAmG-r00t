@@ -20,7 +20,7 @@
 <a href="https://th3-gr00t.tk/" alt="Site"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>
 <a href="https://twitter.com/th3_gr00t/" alt="twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/peter-numi-b14b71145/" alt="linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://th33gr00t.blogspot.com/" alt="blog"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /></a>
+<a href="https://blog.th3-gr00t.tk/" alt="blog"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /></a>
 </p>
 
 [website]: https://th33-gr00t.tk/
