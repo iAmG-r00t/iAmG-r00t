@@ -4,15 +4,17 @@
   <a href="https://th3-gr00t.tk/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=th3-gr00t.tk&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fth3-gr00t.tk%2F"></a>
 </p>
 <p align="center">
-<a href="https://twitter.com/th3_gr00t/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
+<a href="https://twitter.com/th3_gr00t/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40th3_gr00t-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+<!--<a href="https://twitter.com/th3_gr00t/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>-->
 </p>
 
 <h3 align="center">I'm into Security Research.</h3>
 
-- 🔭 I’m working on 👨‍🏭 [Automation][blog] & 👷 [DevOps][blog]!
+- 🔭 I’m working on finding a rhythm to my end goal vuln research [blog]!
 - 🌱 I’m learning low level 🧰 stuff ... 👨‍💻.
 - 👯 I’m looking to collaborate 🤝 on other security researchers research and build on them.
 - 👋 I try to [share][blog] what I have learnt or picked up along the way.
+- 🧠 I also have a [den][wiki] where I dump things that make my mind hurt and happy at the same time.
 - 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
 - ⚡ Fun fact: I'm a hyper person and I loooove speeeed!! Ohhh + i 🥰 🐶
 
@@ -27,3 +29,4 @@
 [twitter]: https://twitter.com/th3_gr00t/
 [linkedin]: https://www.linkedin.com/in/peter-numi-b14b71145/
 [blog]: https://blog.th3-gr00t.tk/
+[wiki]: https://wiki.th3-gr00t.tk/
