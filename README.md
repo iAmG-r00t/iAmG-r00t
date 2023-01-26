@@ -17,12 +17,15 @@
 - 🧠 I also have a [den][wiki] where I dump things that make my mind hurt and happy at the same time.
 - 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
 - ⚡ Fun fact: I'm a hyper person and I loooove speeeed!! Ohhh + i 🥰 🐶
+- 🥴 Want to chat or ask a question? Find me @ [discord][iscord] (Disclaimer [How (not) to ask a technical question][liveoverflow-rant])
 
 <p align="center">
+<a href="https://wiki.th3-gr00t.tk/" alt="wiki"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wikipedia.svg" /></a>
 <a href="https://th3-gr00t.tk/" alt="Site"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>
 <a href="https://twitter.com/th3_gr00t/" alt="twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/peter-numi-b14b71145/" alt="linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://blog.th3-gr00t.tk/" alt="blog"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /></a>
+<a href="https://discordapp.com/users/gr00t#8077" alt="discord"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /></a>
 </p>
 
 [website]: https://th33-gr00t.tk/
@@ -30,3 +33,5 @@
 [linkedin]: https://www.linkedin.com/in/peter-numi-b14b71145/
 [blog]: https://blog.th3-gr00t.tk/
 [wiki]: https://wiki.th3-gr00t.tk/
+[iscord]: https://discordapp.com/users/gr00t#8077
+[liveoverflow-rant]: https://www.youtube.com/watch?v=53zkBvL4ZB4
